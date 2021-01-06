@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Xanh Mono', monospace;
+}
+
+/* start section one  */
+.one{
+    height: 550px;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 150px;
+}
+.heading-content{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding-top: 10%;
+
+}
+.heading-img{
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 50px;
+}
+.heading-img img{
+    width: 100%;
+}
+#hello{
+    font-size: 55px;
+    font-weight: bold;
+    color: rgb(28, 28, 59);
+}
+#rob{
+    font-size: 55px;
+    font-weight: bold;
+    color: tomato; 
+    font-family: 'Poppins', sans-serif;
+}
+.heading-content p{
+    width: 60%;
+    font-size: 18px;
+    text-align: justify;
+    padding-bottom: 15px;
+}
+.top-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon, tomato) ;
+    font-weight: 700px;
+    padding: 15px 25px;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 30px;
+
+}
+.two{
+    height: 550px;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 200px;
+}
+.three{
+    height: 800px;
+    background-color: rgb(228, 220, 220);
+} 
+.three-img{
+    width: 100%;
+    margin: 0px auto;
+    padding-left: 60px;
+    
+}
+.three-heading h1{
+    color: rgb(27, 27, 54);
+    font-size: 45px;
+    text-align: center;
+    padding-top: 150px;
+}
+#lastet{
+    color: tomato;
+}
+ .last-img img{
+    width: 100%;
+}
+.last-img{
+    
+    width: 25%;
+    margin: 2.5%;
+    float: left;
+    /* padding-left: 30px; */
+    height: 90%;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.last-img h1{
+    color: rgb(27, 27, 54);
+    font-size: 20px;
+    font-weight: 700px;
+    padding-left: 10px;
+}
+.last-img p{
+    text-align: justify;
+    padding-left: 10px;
+    width: 75%;
+}
+.four{
+    height: 400px;
+    padding-top: 100px;
+}
+.working-inquiry{
+    background-image: url("bg/work-bg.png");
+    background-size: cover;
+    width: 65%;
+    height: 200px;
+    margin: 0px auto;
+    padding: 10px;
+}
+.work-title{
+    float: left;
+    width: 50%;
+    font-size:30px ;
+    height: 100%;
+    padding-left: 50px;
+    padding-top: 15px;
+    color: #ffffff;
+}
+.chat{
+    height: 100%;
+    float: right;
+    width: 20%;
+    padding-top: 100px;
+    
+}
+#down-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon, tomato) ;
+    font-weight: 700px;
+    padding: 15px 25px;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.five{
+    height: 300px;
+}
+.five-heading{
+    text-align: center;
+}
+.five-heading h2{
+    font-size: 35px;
+    color: rgb(77, 58, 95);
+}
+.five-heading h4{
+    color: rgb(110, 102, 102);
+}
+.icon{
+width: 15%;
+margin: 0px auto;
+}
+.icon img{
+    padding: 10px;
+    width: 18%;
+}
