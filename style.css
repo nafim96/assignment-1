@@ -18,6 +18,13 @@ font-family: 'Xanh Mono', monospace;
     padding-top: 10%;
 
 }
+.second-heading-content{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding-top: 5%;
+
+}
 .heading-img{
     width: 38%;
     float: left;
